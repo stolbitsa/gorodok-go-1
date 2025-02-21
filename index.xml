@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-1</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="merry-christmas-kids-5"/>
   <readme>
     <ru>4e344558ad6abd0efc68f8c46b53dc37f137e7f993c55a04d0bac4c9ec45137f</ru>
@@ -104,18 +104,18 @@
   <exercise number="7">
     <scale>minor</scale>
     <bpm>78</bpm>
-    <lowestNote>5</lowestNote>
+    <lowestNote>58</lowestNote>
     <tonalities>10</tonalities>
     <video name="7.mp4" size="2326916" type="video/mp4" volume="1">d4ed78cebb80ed1f56e18553c2cf16f513171f7128ecba41b787751b3bf48941</video>
     <notes>
-      <note number="1" values="5" ticks="142" durationTicks="24" ppq="96" velocity="0.843"/>
-      <note number="2" values="18" ticks="166" durationTicks="24" ppq="96" velocity="0.739"/>
-      <note number="3" values="28" ticks="190" durationTicks="48" ppq="96" velocity="0.719"/>
-      <note number="4" values="18" ticks="239" durationTicks="46" ppq="96" velocity="0.719"/>
-      <note number="5" values="28" ticks="286" durationTicks="41" ppq="96" velocity="0.719"/>
-      <note number="6" values="18" ticks="335" durationTicks="43" ppq="96" velocity="0.719"/>
-      <note number="7" values="28" ticks="383" durationTicks="49" ppq="96" velocity="0.719"/>
-      <note number="8" values="18" ticks="430" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="1" values="58" ticks="96" durationTicks="24" ppq="96" velocity="0.591"/>
+      <note number="2" values="188" ticks="134" durationTicks="24" ppq="96" velocity="0.638"/>
+      <note number="3" values="288" ticks="172" durationTicks="35" ppq="96" velocity="0.717"/>
+      <note number="4" values="188" ticks="209" durationTicks="46" ppq="96" velocity="0.717"/>
+      <note number="5" values="288" ticks="241" durationTicks="41" ppq="96" velocity="0.717"/>
+      <note number="6" values="188" ticks="282" durationTicks="43" ppq="96" velocity="0.717"/>
+      <note number="7" values="288" ticks="319" durationTicks="49" ppq="96" velocity="0.717"/>
+      <note number="8" values="188" ticks="378" durationTicks="45" ppq="96" velocity="0.717"/>
     </notes>
   </exercise>
   <exercise number="8">
