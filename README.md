@@ -1,5 +1,8 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-# Анжелика Варум - Городок, говновоз - 1 куплет
+# Анжелика Варум - Городок, Говновоз - 1 куплет
+## Версия для компьютера
+Версия для мобильных устройств: https://stolbitsa.com/wolskp/gorodok-go-1
+
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/3m9cdUaMiWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
@@ -27,11 +30,12 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m9cdUaMiWU" title="player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
-# Gorodok Govnovoz - verse 1
+# Anzhelika Varum - Gorodok, Govnovoz - Verse 1
+## Desktop version
+Mobile version:  https://stolbitsa.com/wolskp/gorodok-go-1
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/3m9cdUaMiWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-# Анжелика Варум Городок Говновоз Gorodok Govnovoz
+<iframe width="315" height="560" src="https://www.youtube.com/embed/c404pFf6hjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Lyrics:
 
@@ -53,5 +57,5 @@ Lyrics:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3m9cdUaMiWU" title="player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c404pFf6hjg" title="player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
