@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>gorodok-go-1</repo>
-  <version>v1.0.17</version>
-  <next number="1" owner="stolbitsa" repo="merry-christmas-kids-5"/>
+  <version>v1.0.18</version>
+  <next number="1" owner="stolbitsa" repo="gorodok-go-2"/>
   <readme>
-    <ru>64fbcec2863389016650ac716e4e1fb856158849152780a113d94d563821307b</ru>
-    <en>60792de70fcdff7f010b7d1045a93aa1a076e74d9cebbcaf37767c311d255f36</en>
+    <ru>01bfffa6d09ae730af8dce05fa86c85dafedad6a70aecdcb2ceca05461b3037f</ru>
+    <en>8caa1bdc4c4fbbafe0754f7b51cdb8a1ed5e60b5137cf54cdc9a72391a4f7caf</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
